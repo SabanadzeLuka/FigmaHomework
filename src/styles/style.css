@@ -1,0 +1,105 @@
+
+nav{
+    width: 1180px;
+    margin: 0 auto;
+}
+.box__layout{
+    width: 1180px;
+    margin: 0 auto;
+}
+img{
+    width: 100%;
+}
+.logo{
+    width: 78.08px;
+    height: 28.49px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.nav_items ul {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+.nav_items ul li{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.btn{
+    width: 102px;
+    height: 51px;
+    border: 1px solid #6C63FF;
+    border-radius: 2px;
+    background-color: transparent;
+    font-weight: 700;
+    font-size: 14px;
+    color: #6C63FF;
+}
+.btn.full{
+    background-color: #6C63FF;
+    color: white;
+}
+.col-6{
+    width: 45%;
+}
+.header{
+    font-weight: 700;
+    font-size: 86px;
+    line-height: 88px;
+    letter-spacing: -1px;
+    color: #2F2E41;
+}
+.paragraph{
+    font-size: 20px;
+    line-height: 34px;
+    color: #9893A3;
+}
+.partners{
+    display: flex;
+    justify-content: center;
+}
+.partners_list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 97px;
+}
+.partners_list ul{
+    list-style: none;
+    display: flex;
+    gap: 97px;
+}
+.examination{
+    width: 1180px;
+    margin: 0 auto
+}
+.examination_head_text{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 64px;
+    letter-spacing: -1px;
+    color: #2F2E41;
+}
+.examination_paragraph{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 34px;
+    color: #9893A3;
+}
+.learn_more a{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: -1px;
+    text-decoration: none;
+    color: #2F2E41;
+    border: 10px solid rgba(197, 194, 255, 0.5);
+}
+
+
