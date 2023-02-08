@@ -346,5 +346,127 @@ img{
     align-items: center;
 }
 
+.footer_items{
+    width: 1440px;
+    height: 598px;
+    margin: 0 auto;
+    background-color: rgba(236, 235, 255, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inside_footer{
+    width: 900px;
+    height: 212.55px;
+}
+.footer_item_1{
+    padding: 0;
+    width: 97px;
+    height: 206px;
+    display: flex;
+    justify-content: left;
+}
+.footer_item_1 ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.footer_item_1 ul li{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #717082;
+}
+.footer_item_1 ul span li{
+    color: #2F2E41;
+    font-weight: 600;
+    font-size: 18px;
+    padding-bottom: 12px;
+}
+.footer_item_2{
+    padding: 0;
+    width: 97px;
+    height: 206px;
+    display: flex;
+    justify-content: left;
+}
+.footer_item_2 ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.footer_item_2 ul li{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #717082;
+}
+.footer_item_2 ul span li{
+    color: #2F2E41;
+    font-weight: 600;
+    font-size: 18px;
+    padding-bottom: 12px;
+}
+.footer_item_3{
+    padding: 0;
+    width: 97px;
+    height: 206px;
+    display: flex;
+    justify-content: left;
+}
+.footer_item_3 ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.footer_item_3 ul li{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #717082;
+}
+.footer_item_3 ul span li{
+    color: #2F2E41;
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 12px;
+}
+.footer_item_4{
+    padding: 0;
+    width: 97px;
+    height: 206px;
+    display: flex;
+    justify-content: left;
+}
+.footer_item_4 ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+/* .footer_item_4 ul li{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #717082;
+} */
+.footer_item_4 ul span li{
+    color: #2F2E41;
+    font-weight: 600;
+    font-size: 18px;
+    padding-bottom: 12px;
+}
+.footer_item_4_logos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 120px;
+    height: 32px;
+    margin-top: 18px;
+}
+.footer_item_4_logos img{
+    width: 32px;
+    height: 32px;
+}
+
 
 
