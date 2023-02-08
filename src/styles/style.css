@@ -101,5 +101,250 @@ img{
     color: #2F2E41;
     border: 10px solid rgba(197, 194, 255, 0.5);
 }
+.creative{
+    width: 1180px;
+    margin: 0 auto;
+}
+.creative_solutions{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 64px;
+    letter-spacing: -1px;
+    color: #2F2E41;
+}
+.creative_paragraph{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 34px;
+    color: #9893A3;
+}
+.proffesional{
+    width: 1180px;
+    margin: 0 auto;
+}
+.proffesional_team{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 64px;
+    letter-spacing: -1px;
+    color: #2F2E41;
+}
+.proffesional_paragraph{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 34px;
+    color: #9893A3;
+}
+.plans{
+    width: 1180px;
+    margin: 0 auto;
+}
+.plans_header_text{
+    display: flex;
+    justify-content: center;
+
+}
+.plans_header_text h1{
+    letter-spacing: -1px;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 64px;
+    color: #2F2E41;
+}
+.pricing_cards{
+    height: 502px;
+    display: flex;
+    align-items: center;
+}
+
+.card_starter{
+    display: block;
+    /* justify-content: center;
+    gap: 30px; */
+    width: 363px;
+    height: 421px;
+    /* align-items: center; */
+    text-align: center;
+    background: rgba(236, 235, 255, 0.3);
+    border-radius: 2px;
+}
+.card_premium{
+    display: block;
+    /* justify-content: center;
+    gap: 40px; */
+    width: 363px;
+    height: 502px;
+    /* align-items: center; */
+    text-align: center;
+    background: #6C63FF;
+    border-radius: 2px;
+}
+.card_enterprise{
+    display: block;
+    /* justify-content: center;
+    gap: 30px; */
+    width: 363px;
+    height: 421px;
+    /* align-items: center; */
+    text-align: center;
+    background: rgba(236, 235, 255, 0.3);
+    border-radius: 2px;
+}
+.starter_head_text{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #717082;
+}
+.starter_price{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 56px;
+    letter-spacing: -2px;
+    color: #2F2E41;
+}
+.starter_benefits{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #717082;
+    padding: 0;
+    
+}
+.starter_btn{
+    padding: 16px 30px;
+}
+.premium_head_text{
+    padding-top: 36px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.premium_price{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 56px;
+    color: #FFFFFF;
+    padding-top: 36px;
+}
+.premium_price span{
+    font-size: 18px;
+    font-weight: 400;
+}
+.premium_benefits{
+    padding-top: 22px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: rgba(255, 255, 255, 0.8);
+}
+.premium_btn{
+    padding-top: 36px;
+}
+.premiumbtn{
+    background-color: white;
+    color:#6C63FF;
+}
+.enterprise_head_text{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #717082;
+}
+.enterprise_price{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 56px;
+    margin: 50px 50px;
+    color: #2F2E41;
+}
+.enterprise_price span{
+    font-size: 18px;
+    font-weight: 400;
+}
+.enterprise_benefits{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #717082;
+}
+.enterprise_benefits span{
+    color:#2F2E41
+}
+.enterprise_btn{
+    padding: 16px 30px;
+}
+.blog{
+    width: 1180px;
+    margin: 0 auto;
+}
+.blogheader{
+    height: 64px;
+    
+}
+.blogbtn{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.blog_text{
+    width: 384px;
+    height: 64px;
+}
+.blog_text h1{
+    margin: 0;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 64px;
+}
+.col-4{
+    width: 33%;
+}
+.col-4 h1{
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 30px;
+    letter-spacing: -1px;
+    color: #2F2E41;
+}
+.col-4 p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #9893A3;
+}
+.banner{
+    width: 1180px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.banner_background{
+    width: 900px;
+    height: 296px;
+    background: #2F2E41;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner_items{
+    width: 732px;
+    height: 128px;
+}
+.banner_items_text h1{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 56px;
+    color: #FFFFFF;
+    margin: 0;
+}
+.banner_button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 
